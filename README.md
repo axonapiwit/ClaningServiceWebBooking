@@ -1,4 +1,4 @@
-# ClanningServiceWebBooking
+# ClaningServiceWebBooking
 📝 This Website booking maid CRUD Project
 
 ## 💻 Details:
